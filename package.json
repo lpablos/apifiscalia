@@ -1,0 +1,24 @@
+{
+  "name": "apifiscalia",
+  "version": "1.0.0",
+  "description": "proyecto of fiscalia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lpablos/apifiscalia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lpablos/apifiscalia/issues"
+  },
+  "homepage": "https://github.com/lpablos/apifiscalia#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "pg": "^7.4.1"
+  }
+}
